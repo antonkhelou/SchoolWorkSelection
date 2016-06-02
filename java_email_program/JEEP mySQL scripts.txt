@@ -1,0 +1,35 @@
+CREATE TABLE emails
+(
+	e_id			int NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY(e_id),
+	attachment		BLOB,
+	sender			VARCHAR(50),
+	to_receiver		VARCHAR(500),
+	cc_receiver		VARCHAR(500),
+	bcc_receiver		VARCHAR(500),
+	subject			VARCHAR(50),
+	body			VARCHAR(10000),
+	containing_folder_name	VARCHAR(50),
+	Foreign Key (containing_folder_name) references folders(folder_name)
+	ON DELETE CASCADE ON UPDATE CASCADE,
+	date			DATE
+);
+
+CREATE TABLE folders
+(
+	folder_name	VARCHAR(50) NOT NULL,
+	PRIMARY KEY(folder_name)
+);
+
+CREATE TABLE contacts
+(
+	c_id			int NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY(c_id),
+	first_name		VARCHAR(50),
+	last_name		VARCHAR(50),
+	email_address		VARCHAR(50),
+	telephone_number	VARCHAR(15)
+)
+
+
+INSERT INTO folders VALUES("Inbox"),("Outbox"),("Drafts"),("Junk"),("Sent");

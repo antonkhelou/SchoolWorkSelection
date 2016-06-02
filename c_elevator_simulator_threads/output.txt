@@ -1,0 +1,298 @@
+numPeopleInSim: 4
+numFloorsnSim: 10
+numPeopleCapElev: 2
+I am person 1. I am on floor 0 and going to 3.
+I am person 2. I am on floor 0 and going to 6.
+I am person 3. I am on floor 0 and going to 7.
+I am person 4. I am on floor 0 and going to 5.
+
+floor: 0
+I am person 2 and I am on the elevator.
+I am person 1 and I am on the elevator.
+I am person 3 and the elevator is full. Trying again..
+I am person 4 and the elevator is full. Trying again..
+
+floor: 1
+
+floor: 2
+
+floor: 3
+I am person 1. I have arrived to floor 3.
+
+floor: 4
+I am person 1. I am on floor 3 and going to 5.
+
+floor: 5
+
+floor: 6
+I am person 2. I have arrived to floor 6.
+
+floor: 5
+I am person 2. I am on floor 6 and going to 2.
+
+floor: 4
+
+floor: 3
+I am person 1 and the elevator is not goint my direction. Trying again..
+
+floor: 2
+
+floor: 1
+
+floor: 0
+I am person 3 and I am on the elevator.
+I am person 4 and I am on the elevator.
+
+floor: 1
+
+floor: 2
+
+floor: 3
+I am person 1 and the elevator is full. Trying again..
+
+floor: 4
+
+floor: 5
+I am person 4. I have arrived to floor 5.
+
+floor: 6
+I am person 4. I am on floor 5 and going to 1.
+I am person 2 and the elevator is not goint my direction. Trying again..
+
+floor: 7
+I am person 3. I have arrived to floor 7.
+
+floor: 6
+I am person 2 and I am on the elevator.
+I am person 3. I am on floor 7 and going to 0.
+
+floor: 5
+I am person 4 and I am on the elevator.
+
+floor: 4
+
+floor: 3
+I am person 1 and the elevator is not goint my direction. Trying again..
+
+floor: 2
+I am person 2. I have arrived to floor 2.
+
+floor: 1
+I am person 4. I have arrived to floor 1.
+
+floor: 2
+I am person 2. I am on floor 2 and going to 6.
+
+floor: 3
+I am person 1 and I am on the elevator.
+I am person 4. I am on floor 1 and going to 0.
+
+floor: 4
+
+floor: 5
+I am person 1. I have arrived to floor 5.
+
+floor: 6
+I am person 1. I am on floor 5 and going to 2.
+
+floor: 7
+I am person 3 and I am on the elevator.
+
+floor: 6
+
+floor: 5
+I am person 1 and I am on the elevator.
+
+floor: 4
+
+floor: 3
+
+floor: 2
+I am person 2 and the elevator is not goint my direction. Trying again..
+I am person 1. I have arrived to floor 2.
+I am person 1. I am on floor 2 and going to 1.
+
+floor: 1
+I am person 4 and I am on the elevator.
+
+floor: 0
+I am person 3. I have arrived to floor 0.
+I am person 3. I am on floor 0 and going to 7.
+I am person 4. I have arrived to floor 0.
+
+floor: 1
+
+floor: 2
+I am person 2 and the elevator is not goint my direction. Trying again..
+I am person 1 and I am on the elevator.
+
+floor: 1
+I am person 1. I have arrived to floor 1.
+
+floor: 0
+I am person 3 and I am on the elevator.
+I am person 4. I am on floor 0 and going to 2.
+
+floor: 1
+
+floor: 2
+I am person 2 and I am on the elevator.
+
+floor: 3
+
+floor: 4
+I am person 1. I am on floor 1 and going to 3.
+
+floor: 5
+
+floor: 6
+I am person 2. I have arrived to floor 6.
+
+floor: 7
+I am person 3. I have arrived to floor 7.
+
+floor: 6
+I am person 2. I am on floor 6 and going to 9.
+
+floor: 5
+
+floor: 4
+
+floor: 3
+
+floor: 2
+
+floor: 1
+I am person 1 and the elevator is not goint my direction. Trying again..
+I am person 3. I am on floor 7 and going to 2.
+
+floor: 0
+I am person 4 and I am on the elevator.
+
+floor: 1
+I am person 1 and I am on the elevator.
+
+floor: 2
+I am person 4. I have arrived to floor 2.
+
+floor: 3
+I am person 1. I have arrived to floor 3.
+
+floor: 4
+I am person 1. I am on floor 3 and going to 9.
+
+floor: 5
+
+floor: 6
+I am person 2 and I am on the elevator.
+
+floor: 7
+I am person 3 and the elevator is not goint my direction. Trying again..
+I am person 4. I am on floor 2 and going to 7.
+
+floor: 8
+
+floor: 9
+I am person 2. I have arrived to floor 9.
+
+floor: 8
+I am person 2. I am on floor 9 and going to 6.
+
+floor: 7
+I am person 3 and I am on the elevator.
+
+floor: 6
+
+floor: 5
+
+floor: 4
+
+floor: 3
+I am person 1 and the elevator is not goint my direction. Trying again..
+
+floor: 2
+I am person 4 and I am on the elevator.
+I am person 3. I have arrived to floor 2.
+
+floor: 3
+I am person 1 and I am on the elevator.
+
+floor: 4
+I am person 3. I am on floor 2 and going to 9.
+
+floor: 5
+
+floor: 6
+
+floor: 7
+I am person 4. I have arrived to floor 7.
+
+floor: 8
+
+floor: 9
+I am person 1. I have arrived to floor 9.
+I am person 2 and I am on the elevator.
+
+floor: 8
+
+floor: 7
+I am person 4. I am on floor 7 and going to 9.
+
+floor: 6
+I am person 2. I have arrived to floor 6.
+I am person 2. I am on floor 6 and going to 7.
+
+floor: 5
+I am person 1. I am on floor 9 and going to 8.
+
+floor: 4
+
+floor: 3
+
+floor: 2
+I am person 3 and I am on the elevator.
+
+floor: 3
+
+floor: 4
+
+floor: 5
+
+floor: 6
+I am person 2 and I am on the elevator.
+
+floor: 7
+I am person 4 and the elevator is full. Trying again..
+I am person 2. I have arrived to floor 7.
+
+floor: 8
+
+floor: 9
+I am person 1 and I am on the elevator.
+I am person 3. I have arrived to floor 9.
+
+floor: 8
+I am person 1. I have arrived to floor 8.
+I am person 2. I am on floor 7 and going to 3.
+
+floor: 7
+I am person 4 and I am on the elevator.
+I am person 2 and the elevator is not goint my direction. Trying again..
+I am person 3. I am on floor 9 and going to 6.
+I am person 1. I am on floor 8 and going to 1.
+
+floor: 8
+I am person 1 and the elevator is not goint my direction. Trying again..
+
+floor: 9
+I am person 3 and I am on the elevator.
+I am person 4. I have arrived to floor 9.
+
+floor: 8
+I am person 1 and I am on the elevator.
+
+floor: 7
+I am person 2 and the elevator is full. Trying again..
+Suddenly, the elevators' piston made a screeching metalic noise.
+The lights went out. You feel your feet take off from the floor. Nothing more.
+The simulation is over.
